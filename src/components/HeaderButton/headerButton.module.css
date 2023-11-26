@@ -1,0 +1,14 @@
+th.selectedHeader {
+  border-bottom: 1px solid hsla(0, 0%, 100%, 0.64);
+}
+
+button.selected {
+  color: white;
+}
+
+.headerButton {
+  text-align: left;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+}

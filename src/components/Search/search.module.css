@@ -1,0 +1,9 @@
+.searchInput {
+  background-color: transparent;
+  border: 0;
+}
+
+.searchInput::placeholder {
+  color: hsla(0, 0%, 100%, 0.48);
+  opacity: 1; /* Firefox */
+}

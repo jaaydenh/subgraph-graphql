@@ -1,0 +1,28 @@
+{
+  "name": "Subgraph Graphql",
+  "version": "0.1.0",
+  "private": false,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "export": "next export",
+    "format": "prettier --write 'src/**/*.{js,jsx,ts,tsx}'",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.8.7",
+    "@apollo/react-hooks": "^4.0.0",
+    "@next/bundle-analyzer": "^13.4.12",
+    "@tsconfig/next": "^2.0.0",
+    "@types/react": "18.2.17",
+    "ethers": "^6.8.1",
+    "graphql": "^16.7.1",
+    "next": "^13.4.12",
+    "react": "^18.2.0",
+    "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.10",
+    "prettier": "^2.5.1"
+  }
+}
