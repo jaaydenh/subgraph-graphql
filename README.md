@@ -2,7 +2,7 @@
 
 Practice app to call a subgraph with graphQl and display Epochs data
 
-# Deployed at:
+# Deployed at: https://subgraph-graphql.vercel.app/
 
 ## Setup and development
 
